@@ -10,4 +10,6 @@ For me I have so many plans I have to complete by this year:
 3. An AI Trading application
 4. An AI Flashcard Anki App
 5. Have to learn so many things from computer science domain, especially, AI, ML, Quant Finance and Quantum Coumputing
+6. I have to also read so many books.
+7. I also have to build an online presence now.
 
